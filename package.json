@@ -1,0 +1,26 @@
+{
+    "name": "magic-tavern-names",
+    "version": "1.0.0",
+    "main": "magicTavern.js",
+    "devDependencies": {
+        "@babel/core": "^7.11.1",
+        "@babel/preset-env": "^7.11.0",
+        "babel-jest": "^26.3.0",
+        "jest": "^26.4.0"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": "magic-tavern-names",
+    "keywords": [
+        "Hello",
+        "From",
+        "Magic",
+        "Tavern",
+        "Foon",
+        "Hogface",
+        "Vermillion",
+        "Minotaur",
+        "names"
+    ]
+}
