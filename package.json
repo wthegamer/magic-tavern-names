@@ -1,6 +1,6 @@
 {
     "name": "magic-tavern-names",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "magicTavern.js",
     "devDependencies": {
         "@babel/core": "^7.11.1",
